@@ -1,10 +1,10 @@
 ## Intro to GitHub and Git
 ## This is a lab that demonstrates how GitHub and Git is used
 ## Programming languages used;
-.HTML
+.HTML, 
 C
 ## How to Run Hello.c
-gcc Hello.c
+gcc Hello.c, 
 ./a.out
 The program just displays "Hello World"
 ## Learning experience
