@@ -1,0 +1,2 @@
+Hello this is an introduction to using Git and Github for CSE1106
+My name is Olumide Olaoye and I'm a junior majoring in Software Engineering
